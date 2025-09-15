@@ -2,7 +2,7 @@
 This repository holds my personal packet tracer files containing network topologies created while self practice and learning.
 
 
-# L6 - Command Line Reference
+# L5 - Command Line Reference
 ## 1. Enter configuration Mode
 ```bash
 enable
